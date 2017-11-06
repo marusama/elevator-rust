@@ -1,0 +1,7 @@
+[package]
+name = "elevator-rust"
+version = "0.1.0"
+authors = ["Maru Sama <maru.sama@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
